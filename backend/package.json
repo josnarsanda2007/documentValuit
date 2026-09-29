@@ -1,0 +1,20 @@
+{
+  "name": "documentvaluit",
+  "version": "1.0.0",
+  "description": "a website for store and manage user data",
+  "homepage": "https://github.com/josnarsanda2007/documentValuit#readme",
+  "bugs": {
+    "url": "https://github.com/josnarsanda2007/documentValuit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josnarsanda2007/documentValuit.git"
+  },
+  "license": "ISC",
+  "author": "Hani Jangid",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/josnarsanda2007/documentValuit.git"
+  }
+}
